@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Neyyyyx
+- 👀 I’m interested in discord bots management.
+- 🌱 I’m currently learning python and a little bit of js.
+- 📫 My discord : Blxck.lxl#6644
